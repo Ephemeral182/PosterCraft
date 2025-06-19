@@ -5,11 +5,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/ephemeral182/PosterCraft)
 [![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)](https://huggingface.co/PosterCraft)
 [![Website](https://img.shields.io/badge/🌐-Website-green)](https://ephemeral182.github.io/PosterCraft/)
-[![Video Demo](https://img.shields.io/badge/🎥-Video_Demo-purple)](https://www.youtube.com/watch?v=92wMU4D7qx0)
+[![Video](https://img.shields.io/badge/🎥-Live_Demo-purple)](https://www.youtube.com/watch?v=92wMU4D7qx0)
+[![HF Demo](https://img.shields.io/badge/🤗-HF_Demo-orange)](https://huggingface.co/spaces/Ephemeral182/PosterCraft)
 
 <img src="images/logo/logo2.png" alt="PosterCraft Logo" width="1000"/>
 
-### [**🌐 Website**](https://ephemeral182.github.io/PosterCraft/) | [**🎯 Demo**](https://github.com/Ephemeral182/PosterCraft) | [**📄 Paper**](https://arxiv.org/abs/2506.10741) | [**🤗 Models**](https://huggingface.co/PosterCraft) | [**📚 Datasets**](https://huggingface.co/datasets/PosterCraft) | [**🎥 Video**](https://www.youtube.com/watch?v=92wMU4D7qx0)
+### [**🌐 Website**](https://ephemeral182.github.io/PosterCraft/) | [**🎯 Demo**](https://github.com/Ephemeral182/PosterCraft) | [**📄 Paper**](https://arxiv.org/abs/2506.10741) | [**🤗 Models**](https://huggingface.co/PosterCraft) | [**📚 Datasets**](https://huggingface.co/datasets/PosterCraft) | [**🎥 Video**](https://www.youtube.com/watch?v=92wMU4D7qx0) | [**🤗 HF Demo**](https://huggingface.co/spaces/Ephemeral182/PosterCraft)
 
 </div>
 
@@ -19,7 +20,7 @@
 
 
 
-
+- 🔥 **[2025.06]** We have deployed a demo on Hugging Face Space, feel free to give it a try!
 - 🚀 **[2025.06]** Our gradio demo and inference code are now available!
 - 📊 **[2025.06]** We have released partial datasets and model weights on HuggingFace.
 
