@@ -9,8 +9,8 @@ import random
 import logging
 
 DEFAULT_PIPELINE_PATH = "black-forest-labs/FLUX.1-dev"
-DEFAULT_QWEN_MODEL_PATH = "PosterCraft/PosterCraft-v1_RL"
-DEFAULT_CUSTOM_WEIGHTS_PATH = "Qwen/Qwen3-8B"
+DEFAULT_QWEN_MODEL_PATH = "Qwen/Qwen3-8B"
+DEFAULT_CUSTOM_WEIGHTS_PATH = "PosterCraft/PosterCraft-v1_RL"
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
