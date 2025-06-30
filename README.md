@@ -19,6 +19,7 @@
 ## News & Updates
 
 
+- 🖥️ **[2025.06]** We have pushed our work on [MeiGen-AI](https://github.com/MeiGen-AI), where you can explore not only our project but also the work of other colleagues. Feel free to check it out for more insights and contributions.
 - 🧩 **[2025.06]** Community user [@AIFSH](https://github.com/AIFSH) has successfully integrated **PosterCraft into ComfyUI**!  
   You can check out the full workflow here: [PosterCraft-ComfyUI Example](https://www.xiangongyun.com/image/detail/68b711eb-a31e-47db-82eb-47438359f4bf?r=XLVYLW)  
   Big thanks to the contributor — this will be helpful for many users! See [Issue #6](https://github.com/Ephemeral182/PosterCraft/issues/6) for details.
@@ -29,6 +30,8 @@ Read it here: [中文解读｜高质量美学海报生成框架 PosterCraft](htt
 - 📊 **[2025.06]** We have released partial datasets and model weights on HuggingFace.
 
 ---
+
+Let me know if this works!
 
 ## 👥 Authors
 
