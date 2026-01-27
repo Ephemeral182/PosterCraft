@@ -18,6 +18,7 @@
 
 ## News & Updates
 
+- 🔥 **[2025.06]** PosterCraft has been accepted by ICLR 2026.!
 - 📦 **[2025.09]** We have released our [Poster100K dataset](https://huggingface.co/datasets/PosterCraft/Poster100K) on HuggingFace!
 - 🖥️ **[2025.06]** We have pushed our work on [MeiGen-AI](https://github.com/MeiGen-AI), where you can explore not only our project but also the work of other colleagues. Feel free to check it out for more insights and contributions.
 - 🧩 **[2025.06]** Community user [@AIFSH](https://github.com/AIFSH) has successfully integrated **PosterCraft into ComfyUI**!  
